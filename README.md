@@ -76,3 +76,4 @@ streamlit run app.py
 
 ## Author:-
 [Karthik Arumugam](https://github.com/KarthikArumugam3)
+[Follow me on LinkedIN](https://www.linkedin.com/in/karthikarumugamd/)
