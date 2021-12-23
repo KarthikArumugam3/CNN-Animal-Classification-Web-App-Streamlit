@@ -11,7 +11,7 @@ Jupyter notebook implementation:-
 
 Example of the data points:- 
 
-![Dog](readme_data/tucker.jpg)
+![Dog](readme_data/dog.jpg)
 ![Cat](readme_data/cat.jpg)
 
 ## Tech
@@ -68,7 +68,7 @@ streamlit run app.py
 
 #### Webapp implementation :-
 
-![Webapp](readme_data/Screenshot (50).png)
+![Webapp](readme_data/Webapp.png)
 ![Webapp test result for dog](readme_data/dog_webapp_test.png)
 ![Webapp test result for cat](readme_data/cat_webapp_test.png)
 
